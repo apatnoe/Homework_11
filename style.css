@@ -12,13 +12,17 @@
 
     .navbar-brand{
         background-color: teal;
+        margin: none;
         font-family: Georgia, 'Times New Roman', Times, serif;
-        color: white;
-        text-decoration-color: white;
     }
 
     .navbar-nav{
         margin-left: auto;
+    }
+
+    .navbar-light .navbar-brand {
+        color: white;
+        font-weight: bold;
     }
 
     #disappear{
