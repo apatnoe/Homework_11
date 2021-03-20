@@ -68,6 +68,7 @@
 
     #p2{
         padding-bottom: 20px;
+        padding-top: 20px;
     }
 
 /*-- visualization side bar page*/
@@ -144,7 +145,7 @@
     background-color: white;
     margin-top: 20px;
     margin-left: 20px;
-    min-height: 300px;
+    min-height: 600px;
     display: block !important;
 }
 
